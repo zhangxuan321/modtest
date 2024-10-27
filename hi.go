@@ -4,6 +4,6 @@ import (
 	"fmt"
 )
 
-func sayHi(name string) {
+func SayHi(name string) {
 	fmt.Sprintf("Hi, %s", name)
 }
